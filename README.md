@@ -1,1 +1,1 @@
-# clarity_DAO
+# Stacks Inheritence Contract
