@@ -29,6 +29,7 @@ The first way is to run the following terminal commands based on your OS:
 
 ## Contract main functions
 
+```
 | Public functions                                |
 +-------------------------------------------------+
 | (claim_beneficiary)                             |
@@ -46,6 +47,7 @@ The first way is to run the following terminal commands based on your OS:
 | (get-unlock-minutes)                            |
 | (infer-block-hight-from-minutes (minutes uint)) |
 +-------------------------------------------------+
+```
 
 ## Example commands
 
