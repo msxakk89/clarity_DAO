@@ -1,12 +1,13 @@
 [project]
-name = 'clarity_DAO'
+name = 'stacks-inheritence'
 description = ''
 authors = []
 telemetry = false
 cache_dir = './.cache'
 requirements = []
-[contracts.clarity_DAO]
-path = 'contracts/clarity_DAO.clar'
+
+[contracts.inheritence]
+path = 'contracts/inheritence.clar'
 clarity_version = 1
 epoch = 2.0
 [repl.analysis]
